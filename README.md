@@ -1,0 +1,1 @@
+O código implementa uma leitura assíncrona de dados de um arquivo para um array usando threads. Ele cria uma thread para ler dados do arquivo enquanto o main pode continuar sua execução. A leitura dos dados é realizada em um buffer, convertendo as linhas do arquivo para floats e armazenando-os no array fornecido.
